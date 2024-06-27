@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "job-app-r-native",
+    "slug": "job-app-r-native"
+  }
+}
